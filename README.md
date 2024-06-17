@@ -1,5 +1,6 @@
-![Codewars](https://github.r2v.ch/codewars?user=jahmanjee&stroke=COLOR)
 <!--
+![Codewars](https://github.r2v.ch/codewars?user=jahmanjee&stroke=COLOR)
+
 **jahmanjee/jahmanjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
